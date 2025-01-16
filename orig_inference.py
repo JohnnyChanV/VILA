@@ -13,7 +13,7 @@ os.environ['https_proxy'] = "http://127.0.0.1:7890"
 os.environ['http_proxy'] = "http://127.0.0.1:7890"
 
 cache_dir = os.environ['HuggingfaceCache']
-access_token = "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"
+access_token =
 device = "cuda"
 MODEL_NAME = "meta-llama/Llama-3.2-3B-Instruct"
 
