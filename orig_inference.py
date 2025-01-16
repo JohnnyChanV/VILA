@@ -1,4 +1,4 @@
-# from vllm import LLM, SamplingParams
+from vllm import LLM, SamplingParams
 import time
 
 from tqdm import tqdm
